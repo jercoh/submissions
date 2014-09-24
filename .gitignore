@@ -1,8 +1,6 @@
 *.gz
 *.pyc
-*.data
 *.names
-*.pkl
 McNulty/Supervised_Learning_Challenge_Solutions_1_to_4.ipynb
 McNulty/credentials.py
 McNulty/sqlquery.py
